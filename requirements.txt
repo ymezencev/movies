@@ -1,0 +1,10 @@
+asgiref==3.3.1
+Django==3.1.4
+django-debug-toolbar==3.1.1
+django-debug-toolbar-force==0.1.8
+django-nine==0.2.3
+psycopg2==2.8.6
+python-dotenv==0.15.0
+pytz==2020.4
+six==1.15.0
+sqlparse==0.4.1
