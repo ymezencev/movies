@@ -1,0 +1,1 @@
+# django_blank_template
